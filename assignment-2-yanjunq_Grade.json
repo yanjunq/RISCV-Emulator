@@ -1,0 +1,75 @@
+{
+  "rpart1": {
+    "mark": 0,
+    "comment": "Program did not run successfully. It either did not build or exited with error code 0"
+  },
+  "rpart2": {
+    "mark": 0,
+    "comment": "Program ran and output matched."
+  },
+  "ripart1": {
+    "mark": 0,
+    "comment": "Program ran and output matched."
+  },
+  "ripart2": {
+    "mark": 0,
+    "comment": "Program did not run successfully. It either did not build or exited with error code 0"
+  },
+  "ipart1": {
+    "mark": 0,
+    "comment": "Program did not run successfully. It either did not build or exited with error code 0"
+  },
+  "ipart2": {
+    "mark": 0,
+    "comment": "Program did not run successfully. It either did not build or exited with error code 0"
+  },
+  "spart1": {
+    "mark": 0,
+    "comment": "Program did not run successfully. It either did not build or exited with error code 0"
+  },
+  "spart2": {
+    "mark": 0,
+    "comment": "Program did not run successfully. It either did not build or exited with error code 0"
+  },
+  "sbpart1": {
+    "mark": 0,
+    "comment": "Program did not run successfully. It either did not build or exited with error code 0"
+  },
+  "sbpart2": {
+    "mark": 0,
+    "comment": "Program did not run successfully. It either did not build or exited with error code 0"
+  },
+  "upart1": {
+    "mark": 0,
+    "comment": "Program did not run successfully. It either did not build or exited with error code 0"
+  },
+  "upart2": {
+    "mark": 0,
+    "comment": "Program did not run successfully. It either did not build or exited with error code 0"
+  },
+  "ujpart1": {
+    "mark": 0,
+    "comment": "Program did not run successfully. It either did not build or exited with error code 0"
+  },
+  "ujpart2": {
+    "mark": 0,
+    "comment": "Program did not run successfully. It either did not build or exited with error code 0"
+  },
+  "sltpart1": {
+    "mark": 0,
+    "comment": "Program did not run successfully. It either did not build or exited with error code 0"
+  },
+  "sltpart2": {
+    "mark": 0,
+    "comment": "Program did not run successfully. It either did not build or exited with error code 0"
+  },
+  "allpart1": {
+    "mark": 0,
+    "comment": "Program did not run successfully. It either did not build or exited with error code 0"
+  },
+  "allpart2": {
+    "mark": 0,
+    "comment": "Program did not run successfully. It either did not build or exited with error code 0"
+  },
+  "userid": "GithubID:assignment-2-yanjunq"
+}
